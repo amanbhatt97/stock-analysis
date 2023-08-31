@@ -1,1 +1,1 @@
-symbols = ['HDFC', 'SBIN']
+symbols = ['HDFC', 'SBIN', 'CHOLAFIN']
