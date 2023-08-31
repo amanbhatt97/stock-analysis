@@ -11,4 +11,5 @@ class ProjectPaths:
         self.parent_directory = parent_directory
         self.raw_data = os.path.join(parent_directory, 'data', 'raw_data')
         self.processed_data = os.path.join(parent_directory, 'data', 'processed_data')
+        self.models = os.path.join(parent_directory, 'models') 
 
